@@ -3,7 +3,7 @@ My name is Budiyanto and I'm a Fullstack Web Developer. I'm from Indonesia, livi
 
 ## &#x270d; Blog
 
-Apart from coding, I also maintain a blog at [pasuh.com](https://pasuh.com/) and [shizenku.blogspot.com](https://shizenku.blogspot.com/)
+Apart from coding, I also maintain blogs at [pasuh.com](https://pasuh.com/) and [shizenku.blogspot.com](https://shizenku.blogspot.com/)
 
 ## &#x1f4c8; GitHub Stats
 
