@@ -7,8 +7,8 @@ Apart from coding, I also maintain blogs at [pasuh.com](https://pasuh.com/), [pe
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simopunkc&hide=java,css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=simopunkc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Simopunkc GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simopunkc&langs_count=20&hide=text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=30,1d1f21,22225a&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=simopunkc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=30,131313,904e95" alt="Simopunkc GitHub Stats" />
 
 <!-- links to your social media accounts -->
 
